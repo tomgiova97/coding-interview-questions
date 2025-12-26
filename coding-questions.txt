@@ -1,0 +1,81 @@
+What is an XSS attack? Make an example.
+What is a CSRF attack? How is it different from an XSS attack? Make an example.
+Javascript variables hoisting meaning.
+Difference between var, let and const.
+Difference between localStorage and sessionStorage.
+How to reduce loading time of http page?
+How browser caching works in the front-end?
+DIfference between SOAP and REST protocols.
+Difference between REST and GRAPHQL.
+What are the components of a CSS box model?
+What’s the difference between a class selector and id selector in CSS?
+What are the data types in Javascript (primitive, non primitive)?
+What are Symbols variables in Javascript?
+What does it mean that a variable is immutable in Javascript?
+What is the DOM?
+What is the “this” keyword in Javascript?
+What is a CDN and what’s the advantage of using it?
+What’s the difference between cookies and local storage?
+How to prevent bots scraping of your public API?
+What’s the Virtual DOM in React?
+What’s the State Management in Rect?
+What are hooks in  React and what are the most common?
+Explain the component lifecycle in React.
+How does the Context API work in React?
+How can you optimize a React application?
+What is a higher-order component in React?
+How do you handle forms in React?
+How does Redux work in React?
+Whats is Node JS?
+What is ExpressJS?
+Explain the difference between asynchronous and synchronous programming
+What’s the purpose of the package.json file?
+What makes an API Restful and what’s an example of non-RESTful API?
+What is content negotiation in the API consuming context?
+What’s the difference between SQL and no-SQL databases and when to use each of them?
+What are the SOLID principles in programming?
+What are microservices and what are their advantages and disadvantages?
+What’s Inversion of Control and dependency injection in Spring Boot?
+Is CSS rendered before or after building the DOM?
+HTML is rendered incrementally in the DOM. Is it the same for CSS?
+What is a closure in Javascript?
+What are debouncing and throttling in the context of Javascript functions?
+What is the microtask que in Javascript?
+What’s the event loop tick? Describe all the events that happen in one of them.
+What are the two rules of hooks in React?
+What can you do with class components that you can not do with function components?
+Why can't you use async functions inside useEffect hooks?
+Explain all the ways to optimize re-rendering in React?
+What is rehydration in React?
+What are three ways two sibling components can share state in React?
+Name three disadvantages of using global state in React
+Can you explain how React context works? Tell me one disadvantage of using it.
+What are five techniques to make a React front-end application faster?
+What are the Web Core Vitals? What would be the most affected by slow re-renders?
+What are the advantages and disadvantages of server-side rendering?
+What is a micro front-end? What are the challenges of implementing it?
+What are CSS selectors? Can you name a few types?
+How would you handle user authentication in a full-stack web application?
+What are environment variables, and how are they used?
+Explain the concept of responsive design. How would you implement it?
+What is the difference between Flexbox and CSS Grid?
+What is middleware in the context of Node.js and Express?
+How do you manage asynchronous code in JavaScript?
+What is Ajax and how is it commonly implemented in a Front-end application?
+Explain the purpose of a version control system and Git workflow.
+What are WebSockets, and how do they differ from HTTP requests?
+Describe the concept of MVC architecture.
+What is a build tool, and what is its purpose in deploying a web application?
+How would you implement server-side rendering in a modern React app?
+What is code splitting, and how does it improve performance?
+Explain how to handle memory leaks in frontend applications
+How do you manage having different languages in your website (frontend and backend side)?
+Explain how you would design and implement a microservices architecture.
+How does the HTTPS secure protocol work (Describe what happens in the browser to secure data)?
+What are some strategies to ensure high availability and scalability of your application?
+How do you handle security vulnerabilities such as SQL injection and XSS?
+Explain how CI/CD pipelines work and tools used to implement them.
+What is event-driven architecture, and when would you use it?
+Explain what Design Patterns are and make some example of them.
+Explain the meaning of the CAP Theorem.
+Explain the ACID properties in the context of Database transactions?

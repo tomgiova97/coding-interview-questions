@@ -53,6 +53,7 @@ def json_to_latex(output_file):
                     \usepackage{listings}
                     \usepackage{xcolor}
                     \usepackage{hyperref}
+                    \usepackage{amsmath}
 
                     % --- Custom Colors for Code ---
                     \definecolor{backcolour}{rgb}{0.95,0.95,0.92}

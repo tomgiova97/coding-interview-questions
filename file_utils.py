@@ -100,7 +100,7 @@ def json_to_latex(output_file):
                     }
 
                     \title{Full-Stack Interview Guide}
-                    \author{Tommaso Giovannelli}
+                    \author{Name Surname}
                     \date{January 2026}
 
                     \begin{document}

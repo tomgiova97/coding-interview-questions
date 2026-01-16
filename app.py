@@ -7,7 +7,7 @@ from file_utils import get_first_unanswered_question, replace_question_object_by
 
 GEMINI_MODEL = "gemini-2.5-pro"
 GEMINI_LIGHT_MODEL = "gemini-2.5-flash"
-CHAT_GPT_MODEL = "gpt-5"
+
 # Set up the scheduler
 scheduler = BackgroundScheduler()
 

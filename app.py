@@ -36,7 +36,7 @@ def gemini_generation_job():
         scheduler.add_job(
             gemini_generation_job,
             trigger="date",
-            run_date=datetime.now() + timedelta(minutes=30),
+            run_date=datetime.now() + timedelta(minutes=10),
         )
 
 

@@ -79,3 +79,40 @@ What is event-driven architecture, and when would you use it?
 Explain what Design Patterns are and make some example of them.
 Explain the meaning of the CAP Theorem.
 Explain the ACID properties in the context of Database transactions?
+What is MERN Stack?
+How MERN Stack Works?
+What is a DNS and how does it work?
+What is the difference between the previous version of HTML and HTML 5?
+What is CORS and why is it useful to set up? What kind of attacks can it prevent?
+Explain event loop in Node.js
+What is Promise and explain its states?
+What is event bubbling and capturing in JavaScript?
+What are undeclared and undefined variables?
+Explain the working of timers in JavaScript. Also explain the drawbacks of using the timer, if any.
+How do browsers read JSX code from React files?
+Why are keys necessary when creating React components in a list?
+Explain the BSON data format and its significance in MongoDB.
+What are Django and Flask, and what are the differences between them?
+What are logical and physical tags in HTML?
+Can we overlap elements in CSS?
+What are the various positioning properties in CSS?
+What is CSS overflow?
+What does the CSS float property do?
+What does display:inline-block do?
+How can we vertically center a text in CSS?
+How can we center an image in CSS?
+What are CSS Combinators?
+What are pseudo-classes in CSS?
+What is the difference between an alert box and a confirmation box?
+How to Perform Aggregation Operations Using MongoDB?
+Explain the Concept of Write Concern and Its Importance in MongoDB
+What are TTL Indexes, and How are They Used in MongoDB?
+Explain @RestController annotation in Spring Boot.
+What is Django ORM?
+What do you mean by manifest file in HTML5?
+Explain Web Worker in HTML
+How can we add gradients in CSS?
+What does the CSS box-sizing property do?
+What is the ‘Strict’ mode in JavaScript and how can it be enabled?
+In what Typescript differs from JavaScript? How would you use in the context of a React application?
+What are the AI Agents? Provide an example.

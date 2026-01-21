@@ -7,7 +7,7 @@ This repository contains an automated system designed to generate high-quality, 
 The core of the project is an automated pipeline that processes a curated list of interview questions:
 
 1. Storage: All questions are stored in a coding-questions.json file.
-2. Automation: A Flask-based background job runs every 30 minutes (configurable).
+2. Automation: A Flask-based background job runs every 10 minutes (configurable).
 3. Processing: The job scans the JSON file for an object where the answer field is empty.
 4. AI Integration: It sends the question to the Gemini AI model with a specific prompt to generate the answer in LaTeX format.
 5. Persistence: The generated answer is saved back into the coding-questions.json file, updating the existing object.
